@@ -92,13 +92,6 @@ git clone https://github.com/your-username/customer-behavior-dashboard.git
 * `.sql` → SQL environment
 * `.pbix` → Power BI Desktop
 
----
-
-## 📸 Dashboard Preview
-
-(Add screenshots here)
-
----
 
 ## 🎯 Future Improvements
 
