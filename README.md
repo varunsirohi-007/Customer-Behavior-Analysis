@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Analysis Dashboard
+# 📊 Customer Behavior Analysis 
 
 An interactive data analytics project that transforms raw customer shopping data into meaningful business insights using **Python, SQL, and Power BI**.
 
